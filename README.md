@@ -1,6 +1,6 @@
 
 [![package publisher](https://img.shields.io/badge/pub-v1.0.0-orange)](https://pub.dev/packages/color_scheme_grid)
-[![package publisher](https://img.shields.io/badge/publisher-Devloop100-blue)](https://pub.dev/packages/color_scheme_grid/publisher)
+[![package publisher](https://img.shields.io/badge/publisher-Devloop1000-blue)](https://pub.dev/packages/color_scheme_grid/publisher)
 [![package publisher](https://img.shields.io/badge/license-MIT-purple)](https://opensource.org/license/MIT)
 
 # color_scheme_grid
@@ -13,7 +13,7 @@ A Flutter package that provides a simple tool to help you visualize your app's c
 - Support for custom colors.
 - Easy to integrate and use.
 
-    <img src="https://raw.githubusercontent.com/devloop100/color_scheme_grid/main/doc/color_scheme_grid.gif?raw=true"
+    <img src="https://raw.githubusercontent.com/devloop1000/color_scheme_grid/main/doc/color_scheme_grid.gif?raw=true"
         alt="An animated image of the sample app" height="400"/>
 
 ## Installation
@@ -79,7 +79,7 @@ class MyApp extends StatelessWidget {
 
 | Light mode | Dark mode
 | ---------- | ---
-<img width=300 src=https://raw.githubusercontent.com/devloop100/color_scheme_grid/main/doc/home_desc_light.jpg> | <img width=300 src=https://raw.githubusercontent.com/devloop100/color_scheme_grid/main/doc/home_desc_dark.jpg> 
+<img width=300 src=https://raw.githubusercontent.com/devloop1000/color_scheme_grid/main/doc/home_desc_light.jpg> | <img width=300 src=https://raw.githubusercontent.com/devloop1000/color_scheme_grid/main/doc/home_desc_dark.jpg> 
 
 __Example__
 

@@ -1,7 +1,7 @@
 name: color_scheme_grid
 description: "A Flutter widget that displays a grid of Material color scheme colors."
 version: 1.0.0
-homepage: https://github.com/devloop100/color_scheme_grid
+homepage: https://github.com/devloop1000/color_scheme_grid
 
 environment:
   sdk: ">=2.19.2 <4.0.0"
